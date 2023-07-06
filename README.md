@@ -1,3 +1,6 @@
+#WAJIB SETTING DATABASE COON TERLEBIH DAHULU DI "uDM.pas" lalu hubungkan pada file database  "UASPM2023\assets\database\dbSample.db"
+
+
 # uasPm_2013030005_3A_2023
 Nama : Mohammad Alfian Rozaq
 
